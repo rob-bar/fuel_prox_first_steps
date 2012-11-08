@@ -19,7 +19,7 @@
 		        // This will be called when the HTTP method is POST.
 		    }
 		    public function action_index() {
-		        // This will be called when the HTTP method is POST OR GET.
+		        // This will be called when the HTTP POST OR GET.
 		    }
 		    //AJAXCHECK
 		    Input::is_ajax();

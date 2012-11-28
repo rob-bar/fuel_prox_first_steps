@@ -1,4 +1,4 @@
-<section data-state="blackout">
+<section>
 	<h2>Routes & folders example</h2>
 	<pre>
 		<code contenteditable style="font-size: 18px;">

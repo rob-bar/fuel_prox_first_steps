@@ -6,6 +6,9 @@
 			$view->set_global('username', 'Robbie');
 			//or
 			$template->set_global('username', 'Jonathan');
+
+			//then getting in controller sub functions
+			$template->get('username');
 		</code>
 	</pre>
 </section>

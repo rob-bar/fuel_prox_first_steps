@@ -27,7 +27,7 @@
 		</pre>
 	</section>
 	<section>
-		<h2>Master Teplate & immediate template definition</h2>
+		<h2>Master Template & immediate template definition</h2>
 		<pre>
 			<code contenteditable style="font-size: 18px;">
 				class Controller_Master extends Controller_Template {

@@ -12,7 +12,11 @@
 	</section>
 	<section>
 		<h2>Dummy data</h2>
-		<blockquote>It's good that you can call in a task that runs a truncate on all your tables and refils it with dummy data.</blockquote>
+		<blockquote>
+			It's good that you can call in a task that runs a truncate on all your tables and refils it with dummy data.
+		</blockquote>
 		<p>oil r data:add_all</p>
+		<p>oil r data:add_banners</p>
+		<p>oil r data:...</p>
 	</section>
 </section>
